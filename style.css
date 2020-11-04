@@ -1,0 +1,11 @@
+body{
+    background-image: url("world2.jpg");
+}
+h1{
+    margin: 8%;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: rgb(183, 248, 204);
+    text-shadow: 0 0 1rem white;
+    font-size: 6rem;
+}
